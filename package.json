@@ -30,5 +30,8 @@
   "devDependencies": {
     "mocha": "~1.8.1"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "underscore": "~1.4.4"
+  }
 }
