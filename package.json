@@ -1,7 +1,7 @@
 {
   "name": "fake-email",
   "description": "Generates fake email addresses based on real names.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/stevekinney/node-fake-email",
   "author": {
     "name": "Steve Kinney",
