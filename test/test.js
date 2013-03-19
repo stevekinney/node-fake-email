@@ -11,7 +11,7 @@ describe('Fake Email Address Generator', function() {
   });
   
   it('should strip out apostrophes from names', function () {
-    var name = "Brian O'Connell"
+    var name = "Brian O'Connell";
     for(var i; i < 20; i++) {
       assert.ok(!generate(name).match("'"));
     }
